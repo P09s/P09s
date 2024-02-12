@@ -1,6 +1,6 @@
 # 💫 Introduction:
 Hello 👋, I'm Parag. I'm a 2nd-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm a Front-End developer trying to convert imagination into technology.<br><br>My primary focus is on frontend engineering, and I have a deep understanding of flutter, Machine Learning, Argumented Reality, and Java. I am eager to bring my skills and experience to a new challenge as an engineer. I have worked with and can work with different technologies to implement scaleable and robust solutions.<br><br>
-### ^_^ Talking about my personal stuff 
+### * Talking about my personal stuff 
 
 
   👨‍💻 I'm currently working on learning stuffs.
@@ -12,11 +12,11 @@ Hello 👋, I'm Parag. I'm a 2nd-year B.Tech Computer Science Engineering Studen
   📄 Get my resume on LinkedIn.
   
 
-### ^_^ Some Technical Stuff I Work With
+### * Some Technical Stuff I Work With
 
  #### 👨‍💻 Programming Languages
   
-        Java | Python - ML | Html
+        Java | Python - Machine Learning | Html
 
  #### 🛠 Libraries & Frameworks
   
@@ -24,11 +24,11 @@ Hello 👋, I'm Parag. I'm a 2nd-year B.Tech Computer Science Engineering Studen
 
  #### ✨ Reality tech
   
-        Argumented Reality | Virtual Reality | Mixed Reality | Metaverse
+        Argumented Reality | Virtual Reality | Mixed Reality
 
  #### 🗜 Softwares worked with
    
-        VS code | Intellij | Jupiter Notebook | Google colab | Metaspark Studio | Unity
+        VS code | Intellij | Jupiter Notebook | Google colab | Metaspark Studio | Unity | Sandbox | Eclipse
 
  #### ☁ Cloud 
    
@@ -54,6 +54,5 @@ Hello 👋, I'm Parag. I'm a 2nd-year B.Tech Computer Science Engineering Studen
 ![](https://github-contributor-stats.vercel.app/api?username=P09s&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=P09s&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
