@@ -1,43 +1,27 @@
-<h2 align="left">Introduction</h2>
+# 💫 About Me:
+Hello 👋, I'm Parag. I'm a 2nd-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm a Front-End developer trying to convert imagination into technology.<br><br>My primary focus is on frontend engineering, and I have a deep understanding of flutter, Machine Learning, Argumented Reality, and Java. I am eager to bring my skills and experience to a new challenge as an engineer. I have worked with and can work with different technologies to implement scaleable and robust solutions.<br><br>Talking about my personal stuff
 
-###
 
-<p align="left">Hello 👋, I'm Parag. I'm a 2nd-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm a Front-End developer trying to convert imagination into technology.<br><br>My primary focus is on frontend engineering, and I have a deep understanding of flutter, Machine Learning, Argumented Reality, and Java. I am eager to bring my skills and experience to a new challenge as an engineer. I have worked with and can work with different technologies to implement scaleable and robust solutions.</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parag-sharma-8084a8250) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@zoroya.) 
 
-###
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=P09s&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=P09s&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=P09s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<h3 align="left">Talking about my personal stuff</h3>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=P09s&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="left">Talking about personal stuff<br><br>👨‍💻 I'm currently working on learning stuffs.<br><br>👯 I’m looking to collaborate on frontend projects and AR Projects.<br><br>💬 Ask me about Frontend-Developement.<br><br>📄 Get my resume on LinkedIn.<br><br>Some Technical Stuff I Work With<br><br>👨‍💻 Programming Languages Java | Python - ML | Html<br><br>🛠️ Libraries & Frameworks Flutter | Numpy | Pandas | Tensorflow<br><br>✨ Reality tech Argumented Reality | Virtual Reality | Mixed Reality | Metaverse<br><br>🗜 Softwares worked with VS code | Intellij | Jupiter Notebook | Google colab | Metaspark Studio | Unity<br><br>☁️ Cloud Firebase<br><br>🌐 DevOps Microsoft</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=P09s&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=P09s&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<h4 align="left">Worked with</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
