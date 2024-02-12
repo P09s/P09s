@@ -1,28 +1,30 @@
 # 💫 Introduction:
-Hello 👋, I'm Parag. I'm a 2nd-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm a Front-End developer trying to convert imagination into technology.<br><br>My primary focus is on frontend engineering, and I have a deep understanding of flutter, Machine Learning, Argumented Reality, and Java. I am eager to bring my skills and experience to a new challenge as an engineer. I have worked with and can work with different technologies to implement scaleable and robust solutions.<br><br>Talking about my personal stuff 
-👨‍💻 I'm currently working on learning stuffs.
+Hello 👋, I'm Parag. I'm a 2nd-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm a Front-End developer trying to convert imagination into technology.<br><br>My primary focus is on frontend engineering, and I have a deep understanding of flutter, Machine Learning, Argumented Reality, and Java. I am eager to bring my skills and experience to a new challenge as an engineer. I have worked with and can work with different technologies to implement scaleable and robust solutions.<br><br>
+Talking about my personal stuff 
+  👨‍💻 I'm currently working on learning stuffs.
 
-👯 I’m looking to collaborate on frontend projects and AR Projects.
+  👯 I’m looking to collaborate on frontend projects and AR Projects.
 
-💬 Ask me about Frontend-Developement.
+  💬 Ask me about Frontend-Developement.
 
-📄 Get my resume on LinkedIn.
+  📄 Get my resume on LinkedIn.
 
 Some Technical Stuff I Work With
 
-👨‍💻 Programming Languages Java | Python - ML | Html
+  👨‍💻 Programming Languages
+        Java | Python - ML | Html
 
-🛠 Libraries & Frameworks Flutter | Numpy | Pandas | Tensorflow
+  🛠 Libraries & Frameworks
+        Flutter | Numpy | Pandas | Tensorflow
 
-✨ Reality tech Argumented Reality | Virtual Reality | Mixed Reality | Metaverse
+  ✨ Reality tech
+        Argumented Reality | Virtual Reality | Mixed Reality | Metaverse
 
-🗜 Softwares worked with VS code | Intellij | Jupiter Notebook | Google colab | Metaspark Studio | Unity
+   🗜 Softwares worked with
+        VS code | Intellij | Jupiter Notebook | Google colab | Metaspark Studio | Unity
 
-☁ Cloud Firebase
-
-🌐 DevOps Microsoft
-
-
+   ☁ Cloud 
+        Firebase firestore
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parag-sharma-8084a8250) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@zoroya.) 
