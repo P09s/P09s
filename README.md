@@ -14,16 +14,29 @@ Talking about personal stuff
 
 📄 Get my resume on LinkedIn.
 
+
 Some Technical Stuff I Work With
 
-👨‍💻 Programming Languages : Java | Python - ML | Html
+👨‍💻 Programming Languages 
+      Java | Python - ML | Html
 
-🛠️ Libraries & Frameworks : Flutter | Numpy | Pandas | Tensorflow
+🛠️ Libraries & Frameworks 
+      Flutter | Numpy | Pandas | Tensorflow
 
-✨ Reality tech : Argumented Reality | Virtual Reality | Mixed Reality | Metaverse
+✨ Reality tech 
+      Argumented Reality | Virtual Reality | Mixed Reality | Metaverse
 
-☁️ Cloud : Firebase
+🗜 Softwares worked with
+      VS code | Intellij | Jupiter Notebook | Google colab | Metaspark Studio | Unity 
 
-🌐 DevOps : Microsoft
+☁️ Cloud 
+      Firebase
+
+🌐 DevOps 
+      Microsoft
+
 
 Featured Projects
+
+      Paragram 
+      Aqua Watch
