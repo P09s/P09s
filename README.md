@@ -35,4 +35,4 @@ Some Technical Stuff I Work With
 🌐 DevOps 
       Microsoft
 
-![<Badge Linkdin>](https://www.linkedin.com/in/parag-sharma-8084a8250/<Badge Linkdin>-<Background Blue>?style=for-the-badge&logo=<Icon Linkdin>&logoColor=<Logo Black>)
+![<Badge #0A66C2>](https://www.linkedin.com/in/parag-sharma-8084a8250/<Badge #0A66C2>-<Background Blue>?style=for-the-badge&logo=<Icon #0A66C2>&logoColor=<Logo Black>)
