@@ -35,8 +35,4 @@ Some Technical Stuff I Work With
 🌐 DevOps 
       Microsoft
 
-
-Featured Projects
-
-      Paragram 
-      Aqua Watch
+![<Badge Linkdin>](https://www.linkedin.com/in/parag-sharma-8084a8250/<Badge Linkdin>-<Background Blue>?style=for-the-badge&logo=<Icon Linkdin>&logoColor=<Logo Black>)
