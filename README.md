@@ -1,6 +1,6 @@
 # 💫 Introduction:
 Hello 👋, I'm Parag. I'm a 2nd-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University. I'm a Front-End developer trying to convert imagination into technology.<br><br>My primary focus is on frontend engineering, and I have a deep understanding of flutter, Machine Learning, Argumented Reality, and Java. I am eager to bring my skills and experience to a new challenge as an engineer. I have worked with and can work with different technologies to implement scaleable and robust solutions.<br><br>
-# Talking about my personal stuff 
+### Talking about my personal stuff 
 
 
   👨‍💻 I'm currently working on learning stuffs.
