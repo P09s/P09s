@@ -20,7 +20,7 @@ Hello 👋, I'm Parag. I'm a 2nd-year B.Tech Computer Science Engineering Studen
 
  #### 🛠 Libraries & Frameworks
   
-        Flutter | Numpy | Pandas | Tensorflow
+        Flutter | Numpy | Pandas | Tensorflow | OpenCV
 
  #### ✨ Reality tech
   
