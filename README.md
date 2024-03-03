@@ -9,7 +9,7 @@ I have a deep understanding of app development, flutter, Machine Learning, Argum
 
   👯 I’m looking to collaborate on frontend projects and AR Projects.
 
-  💬 Ask me about Frontend-Developement.
+  💬 Ask me about Frontend-Development, Machine learning and AR.
 
   📄 Get my resume on LinkedIn.
   
