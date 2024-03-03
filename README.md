@@ -1,5 +1,7 @@
 # Introduction
-Hello 👋, I'm Parag. I'm a 2nd-year B.Tech Computer Science Engineering Student at Maharishi Markandeshwar University and core team member at GOOGLE DEVELOPERS STUDENTS CLUB (MMDU). I'm a Front-End developer trying to convert imagination into technology.<br><br>My primary focus is on frontend engineering, and I have a deep understanding of flutter, Machine Learning, Argumented Reality, and Java. I am eager to bring my skills and experience to a new challenge as an engineer. I have worked with and can work with different technologies to implement scaleable and robust solutions.<br><br>
+Hello 👋, I'm Parag a 2nd year student and GDSC core team member at Maharishi markandeshwar deemed to be University and in this period of more than 1.5 years of experience in GDSC, I learned App development, Machine learning, Augmented reality, etc. Always supporting and guiding like minded people in community with my fair share of knowledge in these domains !! A fun and  knowledgeable experience.
+
+I have a deep understanding of app development, flutter, Machine Learning, Argumented Reality, Java, OpenCV . I am eager to bring my skills and experience to a new challenge as an engineer. I have worked with and can work with different technologies to implement scalable and robust solutions.<br><br>
 ### * Talking about my personal stuff 
 
 
