@@ -46,7 +46,7 @@ I have a deep understanding of app development, flutter, Machine Learning, Argum
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=P09s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=P09s&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
+<!--![](https://github-profile-trophy.vercel.app/?username=P09s&theme=chalk&no-frame=false&no-bg=true&margin-w=4)-->
 <img src="https://github-profile-trophy.vercel.app/?username=P09s&theme=dracula"/>
 
 ### ✍️ Random Dev Quote
