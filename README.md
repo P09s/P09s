@@ -56,4 +56,4 @@ I have a deep understanding of app development, flutter, Machine Learning, Argum
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-https://komarev.com/ghpvc/?username=P09s&color=lightgrey
+![](https://komarev.com/ghpvc/?username=P09s&color=lightgrey)
