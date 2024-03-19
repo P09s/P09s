@@ -52,7 +52,7 @@ I have a deep understanding of app development, flutter, Machine Learning, Argum
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-[![](https://visitcount.itsvg.in/api?id=P09s&icon=6&color=12)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=P09s&icon=6&color=12)(https://visitcount.itsvg.in)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
