@@ -62,7 +62,7 @@ I have a deep understanding of app development, flutter, Machine Learning, Argum
 ###
 <div align="center">
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=P09s&data=followers,repositories,stars&theme=darkmode)](https://github.com/P09s)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=P09s&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/P09s)
 
 <div/>
 
