@@ -51,5 +51,20 @@ I have a deep understanding of app development, flutter, Machine Learning, Argum
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<h2 align="left">📑 Latest Blog</h2>
+
+[![Aaditya Mishra Medium](https://github-readme-medium.vercel.app/?username=sharmaparag2004)](https://medium.com/@sharmaparag2004)
+
+###
+
+<h2 align="center">Summary</h2>
+
+###
+<div align="center">
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=P09s&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/P09s)
+
+<div/>
+
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
