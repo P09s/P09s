@@ -65,6 +65,14 @@ I have a deep understanding of app development, flutter, Machine Learning, Argum
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=P09s&data=followers,repositories,stars&theme=darkmode)](https://github.com/P09s)
 
 <div/>
+-------------------->
+
+🚀 Visit my personal portfolio. [here](https://paragtech.netlify.app/)
+
+**Contact Me**
+
+<a href="mailto:sharmaparag2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/parag-sharma-8084a8250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
