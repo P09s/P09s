@@ -2,6 +2,10 @@
 Hello 👋, I'm Parag a 2nd year student and GDSC core team member at Maharishi markandeshwar deemed to be University and in this period of more than 1.5 years of experience in GDSC, I learned App development, Machine learning, Augmented reality, etc. Always supporting and guiding like minded people in community with my fair share of knowledge in these domains !! A fun and  knowledgeable experience.
 
 I have a deep understanding of app development, flutter, Machine Learning, Argumented Reality, Java, OpenCV . I am eager to bring my skills and experience to a new challenge as an engineer. I have worked with and can work with different technologies to implement scalable and robust solutions.<br><br>
+
+My GDSC profile : https://developers.google.com/profile/u/parag_09
+
+
 ### * Talking about my personal stuff 
 
 
