@@ -46,15 +46,15 @@ My GDSC profile : https://developers.google.com/profile/u/parag_09
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
 # 📊 GitHub Stats:
 <!-------- ![](https://github-readme-streak-stats.herokuapp.com/?user=P09s&theme=dark&hide_border=false)<br/> ------>
-<!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=P09s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) --->
-#### More Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=P09s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<img src="https://github-profile-trophy.vercel.app/?username=sushant102004&theme=dracula"/>
+
 <!------![](https://github-readme-stats.vercel.app/api?username=P09s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>----->
 
 ## 🏆 GitHub Trophies
 <!--![](https://github-profile-trophy.vercel.app/?username=P09s&theme=chalk&no-frame=false&no-bg=true&margin-w=4)-->
-<img src="https://github-profile-trophy.vercel.app/?username=P09s&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4"/>
+<!----<img src="https://github-profile-trophy.vercel.app/?username=P09s&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4"/>---->
+<img src="https://github-profile-trophy.vercel.app/?username=P09s&theme=dracula"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
