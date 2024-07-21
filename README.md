@@ -47,7 +47,7 @@ My GDSC profile : https://developers.google.com/profile/u/parag_09
 # 📊 GitHub Stats:
 <!-------- ![](https://github-readme-streak-stats.herokuapp.com/?user=P09s&theme=dark&hide_border=false)<br/> ------>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=P09s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=vanshika704&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=P09s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ## 🏆 GitHub Trophies
 <!--![](https://github-profile-trophy.vercel.app/?username=P09s&theme=chalk&no-frame=false&no-bg=true&margin-w=4)-->
