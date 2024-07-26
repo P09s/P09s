@@ -26,7 +26,7 @@ My GDSC profile : https://developers.google.com/profile/u/parag_09
 
  #### 🛠 Libraries & Frameworks
   
-        Flutter | Numpy | Pandas | Tensorflow | OpenCV
+        Flutter | Numpy | Pandas | Tensorflow | OpenCV | Django
 
  #### ✨ Reality tech
   
