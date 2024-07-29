@@ -30,7 +30,7 @@ My GDSC profile : https://developers.google.com/profile/u/parag_09
 
  #### ✨ Reality tech
   
-        Argumented Reality | Virtual Reality | Mixed Reality
+        Augmented Reality | Virtual Reality | Mixed Reality
 
  #### 🗜 Softwares worked with
    
