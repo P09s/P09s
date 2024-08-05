@@ -18,7 +18,7 @@ My GDSC profile : https://developers.google.com/profile/u/parag_09
   📄 Get my resume on LinkedIn.
   
 
-### * Some Technical Stuff, I Work With
+### * Some Technical Stuff, I Work With <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
  #### 👨‍💻 Programming Languages
   
