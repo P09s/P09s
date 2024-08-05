@@ -22,7 +22,7 @@ My GDSC profile : https://developers.google.com/profile/u/parag_09
 
  #### 👨‍💻 Programming Languages
   
-        Java | Python - Machine Learning | Html
+        Java | Python - Machine Learning
 
  #### 🛠 Libraries & Frameworks
   
@@ -38,7 +38,7 @@ My GDSC profile : https://developers.google.com/profile/u/parag_09
 
  #### ☁ Cloud 
    
-        Firebase firestore
+        Firebase firestore | Salesforce - Salesforce CRM
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-sharma-8084a8250) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@paragsharma6159?si=UXp_PbfaNw9x-2Qb) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sharmaparag2004) 
