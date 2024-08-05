@@ -53,7 +53,7 @@ My GDSC profile : https://developers.google.com/profile/u/parag_09
 
 ## 🏆 GitHub Trophies
 <!--![](https://github-profile-trophy.vercel.app/?username=P09s&theme=chalk&no-frame=false&no-bg=true&margin-w=4)---->
-<img src="https://github-profile-trophy.vercel.app/?username=P09s&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=P09s&theme=dracula&no-frame=false&no-bg=false&margin-w=4"/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
