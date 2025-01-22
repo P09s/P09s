@@ -1,8 +1,18 @@
 <!------<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="home screen gif" />---->
 # Introduction
-Hello 👋, I'm Parag a 3rd year student and GDSC core team member at Maharishi markandeshwar deemed to be University and in this period of more than 2 years of experience in GDSC, I learned App development, Machine learning, Augmented reality, etc. Always supporting and guiding like minded people in community with my fair share of knowledge in these domains !! A fun and  knowledgeable experience.
+Hello! I’m Parag Sharma, a 3rd-year undergraduate student at Maharishi Markandeshwar (Deemed To Be University), Mullana, pursuing a B.Tech in Computer Science and Engineering. I’m passionate about building impactful solutions as an app developer 📱, machine learning enthusiast 🤖, and AR creator 🕶️, with a focus on fostering innovation and collaboration within the tech community.
 
-I have a deep understanding of app development, flutter, Machine Learning, Argumented Reality, Java, OpenCV . I am eager to bring my skills and experience to a new challenge as an engineer. I have worked with and can work with different technologies to implement scalable and robust solutions.<br><br>
+
+I have the privilege of leading a dedicated core team of 30 members and managing a thriving community of over 1,000 active members 🌟 as a Google Developer Group (GDG) on Campus Organizer. Together, we host a variety of activities, from daily workshops and events to hackathons 💡, designed to nurture skills, ignite curiosity, and create opportunities for growth.
+
+
+Over the years, I’ve had the opportunity to achieve success in multiple national and international hackathons, earning prize money exceeding $1,000 🏆. Beyond the accolades, these experiences have strengthened my problem-solving abilities and my commitment to building meaningful projects that address real-world challenges.
+
+
+I’m particularly excited about contributing to the tech ecosystem by sharing my expertise and mentoring others in domains like app development, machine learning, and augmented reality. Nothing motivates me more than seeing like-minded individuals grow and innovate with the right guidance and resources.
+
+
+If you’re passionate about technology and eager to make a difference, I’d love to connect, collaborate, and create a fun and knowledgeable journey together! 🤝<br><br>
 
 My GDSC profile : https://developers.google.com/profile/u/parag_09
 
