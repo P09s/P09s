@@ -14,10 +14,10 @@ I’m particularly excited about contributing to the tech ecosystem by sharing m
 
 If you’re passionate about technology and eager to make a difference, I’d love to connect, collaborate, and create a fun and knowledgeable journey together! 🤝<br><br>
 
-My GDSC profile : https://developers.google.com/profile/u/parag_09
+My Google Developer profile : https://developers.google.com/profile/u/parag_09
 
 
-### * Talking about my personal stuff 
+### Talking about my personal stuff 
 
 
   👨‍💻 I'm currently working on learning stuffs.
@@ -29,7 +29,7 @@ My GDSC profile : https://developers.google.com/profile/u/parag_09
   📄 Get my resume on LinkedIn.
   
 
-### * Some Technical Stuff, I Work With <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### Some Technical Stuff, I Work With <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
  #### 👨‍💻 Programming Languages
   
