@@ -59,7 +59,7 @@ My Google Developer profile : https://developers.google.com/profile/u/parag_09
 <!-----![](https://github-readme-streak-stats.herokuapp.com/?user=P09s&theme=dark&hide_border=false)<br/>---->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=P09s&show_icons=true&locale=en&layout=compact&theme=dark" alt="P09s" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=P09s&show_icons=true&locale=en&theme=dark" alt="P09s" /></p>
+<!------<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=P09s&show_icons=true&locale=en&theme=dark" alt="P09s" /></p>--------->
 <!--------<p><img align="" src="https://streak-stats.demolab.com/?user==P09s&theme=dark" alt="=P09s" /></p>------>
 
 <!----------![](https://github-readme-stats.vercel.app/api/top-langs/?username=P09s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)----->
