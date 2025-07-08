@@ -1,6 +1,6 @@
 <!------<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="home screen gif" />---->
 # Introduction
-Hello! I’m Parag Sharma, a 3rd-year undergraduate student at Maharishi Markandeshwar (Deemed To Be University), Mullana, pursuing a B.Tech in Computer Science and Engineering. I’m passionate about building impactful solutions as an app developer 📱, machine learning enthusiast 🤖, and AR creator 🕶️, with a focus on fostering innovation and collaboration within the tech community.
+Hello! I’m Parag Sharma, a final year undergraduate student at Maharishi Markandeshwar (Deemed To Be University), Mullana, pursuing a B.Tech in Computer Science and Engineering. I’m passionate about building impactful solutions as an app developer 📱, machine learning enthusiast 🤖, and AR creator 🕶️, with a focus on fostering innovation and collaboration within the tech community.
 
 
 I have the privilege of leading a dedicated core team of 30 members and managing a thriving community of over 1,000 active members 🌟 as a Google Developer Group (GDG) on Campus Organizer. Together, we host a variety of activities, from daily workshops and events to hackathons 💡, designed to nurture skills, ignite curiosity, and create opportunities for growth.
