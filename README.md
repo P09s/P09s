@@ -1,19 +1,22 @@
 <!------<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="home screen gif" />---->
 # Introduction
-Hello! I’m Parag Sharma, a final year undergraduate student at Maharishi Markandeshwar (Deemed To Be University), Mullana, pursuing a B.Tech in Computer Science and Engineering. I’m passionate about building impactful solutions as an app developer 📱, machine learning enthusiast 🤖, and AR creator 🕶️, with a focus on fostering innovation and collaboration within the tech community.
+I’m a final-year Computer Science and Engineering student with 2.5+ years of experience in software development, full-stack web development, and mobile app development. I previously served as President of GDG on Campus MM(DU), where I led a 30-member developer team and organized events for 1,000+ students, as well as a GDG on Campus Organizer.
 
+I’ve built impactful projects recognized at national and international stages:
 
-I have the privilege of leading a dedicated core team of 30 members and managing a thriving community of over 1,000 active members 🌟 as a Google Developer Group (GDG) on Campus Organizer. Together, we host a variety of activities, from daily workshops and events to hackathons 💡, designed to nurture skills, ignite curiosity, and create opportunities for growth.
+SilentVoice – Winner at Ideathon Taiwan 2025, enabling real-time sign language to speech conversion.
 
+Orbcura – Nominated for the FY2024 INNO-vation Generation Award, a mobile app enhancing accessibility for visually impaired users.
 
-Over the years, I’ve had the opportunity to achieve success in multiple national and international hackathons, earning prize money exceeding $1,000 🏆. Beyond the accolades, these experiences have strengthened my problem-solving abilities and my commitment to building meaningful projects that address real-world challenges.
+Aqua Watch – A real-time flood management app leveraging community-driven reporting and alerts.
 
+My technical expertise includes Java, Flutter, Python, React.js, Tailwind, Salesforce CRM, and cloud technologies, complemented by certifications like Salesforce AI Associate and Machine Learning Specialization (Stanford + DeepLearning.AI).
 
-I’m particularly excited about contributing to the tech ecosystem by sharing my expertise and mentoring others in domains like app development, machine learning, and augmented reality. Nothing motivates me more than seeing like-minded individuals grow and innovate with the right guidance and resources.
+I’ve been fortunate to earn recognition at multiple national and international hackathons, but what drives me most is solving real-world problems through technology while collaborating and building strong developer communities.
 
+🚀 Currently open for opportunities as a Software Development Engineer (SDE) to create scalable, high-impact web and mobile applications.
 
-If you’re passionate about technology and eager to make a difference, I’d love to connect, collaborate, and create a fun and knowledgeable journey together! 🤝<br><br>
-
+Connect : parag-pi.vercel.app <br>
 My Google Developer profile : https://developers.google.com/profile/u/parag_09
 
 
@@ -33,11 +36,11 @@ My Google Developer profile : https://developers.google.com/profile/u/parag_09
 
  #### 👨‍💻 Programming Languages
   
-        Java | Python - Machine Learning
+        Java | Python - Machine Learning | C++
 
  #### 🛠 Libraries & Frameworks
   
-        Flutter | Numpy | Pandas | Tensorflow | OpenCV | Django
+        Flutter | React.js | Tailwind.css | Express.js | Numpy | Pandas | Tensorflow | OpenCV | Django
 
  #### ✨ Reality tech
   
@@ -49,7 +52,7 @@ My Google Developer profile : https://developers.google.com/profile/u/parag_09
 
  #### ☁ Cloud 
    
-        Firebase firestore | Salesforce - Salesforce CRM
+        Firebase firestore | MongoDB | Salesforce - Salesforce CRM
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-sharma-8084a8250) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@paragsharma6159?si=UXp_PbfaNw9x-2Qb) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sharmaparag2004) 
