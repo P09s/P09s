@@ -50,20 +50,16 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Trophies  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=P09s&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P09s&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P09s&layout=compact&theme=radical" height="180"/>
-</p>
-
 ---
 
 ## ✍️ Random Dev Quote  
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
@@ -72,9 +68,11 @@
 
 ## 🌐 Social Presence  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-sharma-8084a8250)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@paragsharma6159?si=UXp_PbfaNw9x-2Qb)  
-[![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharmaparag2004)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/parag-sharma-8084a8250/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/@paragsharma6159?si=UXp_PbfaNw9x-2Qb"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://developers.google.com/profile/u/parag_09"><img src="https://img.shields.io/badge/Google%20Developer-4285F4.svg?style=for-the-badge&logo=google&logoColor=white"/></a>
+</p>
 
 ---
 
