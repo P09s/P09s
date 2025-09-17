@@ -1,107 +1,83 @@
-<!------<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="home screen gif" />---->
-# Introduction
-I’m a final-year Computer Science and Engineering student with 2.5+ years of experience in software development, full-stack web development, and mobile app development. I previously served as President of GDG on Campus MM(DU), where I led a 30-member developer team and organized events for 1,000+ students, as well as a GDG on Campus Organizer.
+<!-- Banner / Intro -->
+<h1 align="center">Hi 👋, I'm Parag Sharma</h1>
+<h3 align="center">🚀 Software Developer | App & Web Enthusiast | AR/VR Explorer</h3>
 
-I’ve built impactful projects recognized at national and international stages:
+<p align="center">
+  <a href="https://parag-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:sharmaparag2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/parag-sharma-8084a8250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://developers.google.com/profile/u/parag_09"><img src="https://img.shields.io/badge/Google%20Developer-4285F4.svg?style=for-the-badge&logo=google&logoColor=white"/></a>
+</p>
 
-SilentVoice – Winner at Ideathon Taiwan 2025, enabling real-time sign language to speech conversion.
+---
 
-Orbcura – Nominated for the FY2024 INNO-vation Generation Award, a mobile app enhancing accessibility for visually impaired users.
+## 💡 About Me  
 
-Aqua Watch – A real-time flood management app leveraging community-driven reporting and alerts.
+🎓 Final-year **Computer Science and Engineering** student with **2.5+ years** of experience in software development, full-stack web, and mobile app development.  
 
-My technical expertise includes Java, Flutter, Python, React.js, Tailwind, Salesforce CRM, and cloud technologies, complemented by certifications like Salesforce AI Associate and Machine Learning Specialization (Stanford + DeepLearning.AI).
+👨‍💻 Former **President of GDG on Campus MM(DU)**, where I led a **30-member developer team** and organized events for **1,000+ students**.  
 
-I’ve been fortunate to earn recognition at multiple national and international hackathons, but what drives me most is solving real-world problems through technology while collaborating and building strong developer communities.
+🏆 Recognized at **national & international hackathons**, passionate about solving real-world problems and building impactful tech communities.  
 
-🚀 Currently open for opportunities as a Software Development Engineer (SDE) to create scalable, high-impact web and mobile applications.
+🔎 **Currently open to opportunities** as a **Software Development Engineer (SDE)** to create scalable, high-impact applications.  
 
-Connect : parag-pi.vercel.app <br>
-My Google Developer profile : https://developers.google.com/profile/u/parag_09
+---
 
+## 🚀 Featured Projects  
 
-### Talking about my personal stuff 
+- 👐 **SilentVoice** – *Winner at Ideathon Taiwan 2025* | Real-time **sign language → speech** converter.  
+- 👁 **Orbcura** – *Nominated for FY2024 INNO-vation Award* | Mobile app for **visually impaired accessibility**.  
+- 🌊 **Aqua Watch** – Real-time **flood management app** with community-driven alerts.  
 
+---
 
-  👨‍💻 I'm currently working on learning stuffs.
+## 🛠 Tech & Tools  
 
-  👯 I’m looking to collaborate on frontend projects and AR Projects.
+### 👨‍💻 Languages  
+`Java` | `Python (ML)` | `C++`  
 
-  💬 Ask me about Frontend-Development, Machine learning and AR.
+### ⚡ Frameworks & Libraries  
+`Flutter` | `React.js` | `Tailwind CSS` | `Express.js` | `TensorFlow` | `OpenCV` | `Django` | `NumPy` | `Pandas`  
 
-  📄 Get my resume on LinkedIn.
-  
+### ✨ Extended Tech  
+`Augmented Reality` | `Virtual Reality` | `Mixed Reality`  
 
-### Some Technical Stuff, I Work With <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### 🗜 Software & IDEs  
+`VS Code` | `IntelliJ` | `Unity` | `Jupyter Notebook` | `Colab` | `Eclipse` | `MetaSpark Studio`  
 
- #### 👨‍💻 Programming Languages
-  
-        Java | Python - Machine Learning | C++
+### ☁ Cloud & Databases  
+`Firebase Firestore` | `MongoDB` | `Salesforce CRM`  
 
- #### 🛠 Libraries & Frameworks
-  
-        Flutter | React.js | Tailwind.css | Express.js | Numpy | Pandas | Tensorflow | OpenCV | Django
+---
 
- #### ✨ Reality tech
-  
-        Augmented Reality | Virtual Reality | Mixed Reality
+## 📊 GitHub Stats  
 
- #### 🗜 Softwares worked with
-   
-        VS code | Intellij | Jupiter Notebook | Google colab | Metaspark Studio | Unity | Sandbox | Eclipse
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=P09s&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+</p>
 
- #### ☁ Cloud 
-   
-        Firebase firestore | MongoDB | Salesforce - Salesforce CRM
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=P09s&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P09s&layout=compact&theme=radical" height="180"/>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-sharma-8084a8250) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@paragsharma6159?si=UXp_PbfaNw9x-2Qb) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sharmaparag2004) 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-<!-----![](https://github-readme-streak-stats.herokuapp.com/?user=P09s&theme=dark&hide_border=false)<br/>---->
+---
 
-<!------<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=P09s&show_icons=true&locale=en&theme=dark" alt="P09s" /></p>--------->
-<!--------<p><img align="" src="https://streak-stats.demolab.com/?user==P09s&theme=dark" alt="=P09s" /></p>------>
+## ✍️ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
-<!----------![](https://github-readme-stats.vercel.app/api/top-langs/?username=P09s&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)----->
+---
 
+## 🌐 Social Presence  
 
-<!--------![](https://github-readme-stats.vercel.app/api?username=P09s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br>------->
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parag-sharma-8084a8250)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@paragsharma6159?si=UXp_PbfaNw9x-2Qb)  
+[![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sharmaparag2004)  
 
-<!--![](https://github-profile-trophy.vercel.app/?username=P09s&theme=chalk&no-frame=false&no-bg=true&margin-w=4)---->
-<img src="https://github-profile-trophy.vercel.app/?username=P09s&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!----------<h2 align="left">📑 Latest Blog</h2>
-
-[![Aaditya Mishra Medium](https://github-readme-medium.vercel.app/?username=sharmaparag2004)](https://medium.com/@sharmaparag2004)
-
-###
-
-<h2 align="center">Summary</h2>
-
-###
-<div align="center">
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=P09s&data=followers,repositories,stars&theme=darkmode)](https://github.com/P09s)
-
-<div/>
--------------------->
-
-🚀 Visit my personal portfolio. [here](https://parag-pi.vercel.app/)
-
-**Contact Me**
-
-<a href="mailto:sharmaparag2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/parag-sharma-8084a8250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-
+---
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
----
