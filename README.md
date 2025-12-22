@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/parag-sharma-8084a8250/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://youtube.com/@paragsharma6159?si=UXp_PbfaNw9x-2Qb"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://youtube.com/@DaemonPOV"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://developers.google.com/profile/u/parag_09"><img src="https://img.shields.io/badge/Google%20Developer-4285F4.svg?style=for-the-badge&logo=google&logoColor=white"/></a>
 </p>
 
