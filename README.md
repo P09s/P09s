@@ -1,75 +1,81 @@
-# ⚡ Domain Expansion: Infinite Code ⚡
+<!-- Banner / Intro -->
+<h1 align="center">Hi 👋, I'm Parag Sharma</h1>
+<h3 align="center">🚀 Software Developer | App & Web Enthusiast | AR/VR Explorer</h3>
 
-### Yo, I'm Parag Sharma! 🗡️
-**Class:** Full-Stack Sorcerer | **Rank:** Special Grade Engineer | **Guild:** GDG on Campus (Ex-Captain)
-
-> *"I don't just debug code; I exorcise curses from the system."*
-
-[cite_start]I am a final-year B.Tech student [cite: 9] building systems that hit harder than a Black Flash. I specialize in summoning scalable backends and weaving AI into reality.
-
----
-
-## 📜 Grimoire (Tech Stack)
-
-**🔥 Breathing Styles (Languages)**
-![Python](https://img.shields.io/badge/Python-Snake_Breathing-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![C++](https://img.shields.io/badge/C++-Wind_Breathing-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Sun_Breathing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-Thunder_Breathing-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**🔮 Cursed Techniques (Frameworks & AI)**
-![React](https://img.shields.io/badge/React-Limitless-20232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Mahoraga_Engine-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-Cursed_Energy-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Six_Eyes-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**👹 Contracts (Tools & Cloud)**
-`AWS` • `Google Cloud` • `MongoDB` • `Firebase` • `Git`
+<p align="center">
+  <a href="https://parag-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:sharmaparag2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/parag-sharma-8084a8250/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://developers.google.com/profile/u/parag_09"><img src="https://img.shields.io/badge/Google%20Developer-4285F4.svg?style=for-the-badge&logo=google&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🏆 Quest Log (Experience)
+## 💡 About Me  
 
-### ⚔️ Guild Master (President & Engineering Lead) @ [GDG on Campus]
-[cite_start]*(Sep 2024 - Jul 2025)* 
-* [cite_start]**Mission:** Led a raid party of **30+ engineers** to ship **10+ production-grade projects**.
-* [cite_start]**Feat:** Established the "Code Review" binding vow to ensure zero bugs in production.
+🎓 Final-year **Computer Science and Engineering** student with **2.5+ years** of experience in software development, full-stack web, and mobile app development.  
 
-### 🛠️ Artificer Apprentice (Intern) @ [TriColor Initiatives]
-[cite_start]*(May 2024 - Jun 2024)* 
-* **Mission:** Salesforce Platform Development.
-* [cite_start]**Feat:** Boosted operational efficiency by **25%** using custom RESTful API integrations (basically teleportation for data).
+👨‍💻 Former **President of GDG on Campus MM(DU)**, where I led a **30-member developer team** and organized events for **1,000+ students**.  
+
+🏆 Recognized at **national & international hackathons**, passionate about solving real-world problems and building impactful tech communities.  
+
+🔎 **Currently open to opportunities** as a **Software Development Engineer (SDE)** to create scalable, high-impact applications.  
 
 ---
 
-## 🌀 Special Grade Artifacts (Projects)
+## 🚀 Featured Projects  
 
-### 👁️ [Orbcura: The All-Seeing Eye](https://github.com/yourusername/orbcura)
-**Type:** Accessibility Mobile App | [cite_start]**Power Source:** Firebase & AI 
-> [cite_start]*Published a Patent for this tech!* 
-An app that grants vision to the blind using real-time AI image understanding. [cite_start]Also features voice-driven UPI payments because accessibility is the ultimate power move.
-
-### 🗣️ [Silent Voice: Telepathy Jutsu](https://github.com/yourusername/silent-voice)
-**Type:** Real-time CV Pipeline | [cite_start]**Power Source:** TensorFlow, OpenCV 
-> [cite_start]*Ideathon Taiwan Winner* 
-A real-time sign-language translation system. [cite_start]It converts hand signs to text instantly using deep learning, optimized for low-latency (speed of sound) inference.
-
-### 🌊 [Aqua Watch: Tsunami Breaker](https://github.com/yourusername/aqua-watch)
-**Type:** Disaster Response Platform | [cite_start]**Power Source:** Google Maps API 
-Delivers flood alerts in **sub-2 seconds**. [cite_start]We don't run from the water; we track it.
+- 👐 **SilentVoice** – *Winner at Ideathon Taiwan 2025* | Real-time **sign language → speech** converter.  
+- 👁 **Orbcura** – *Nominated for FY2024 INNO-vation Award* | Mobile app for **visually impaired accessibility**.  
+- 🌊 **Aqua Watch** – Real-time **flood management app** with community-driven alerts.  
 
 ---
 
-## 📊 Power Levels
+## 🛠 Tech & Tools  
 
-![Parag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+### 👨‍💻 Languages  
+`Java` | `Python (ML)` | `C++`  
+
+### ⚡ Frameworks & Libraries  
+`Flutter` | `React.js` | `Tailwind CSS` | `Express.js` | `TensorFlow` | `OpenCV` | `Django` | `NumPy` | `Pandas`  
+
+### ✨ Extended Tech  
+`Augmented Reality` | `Virtual Reality` | `Mixed Reality`  
+
+### 🗜 Software & IDEs  
+`VS Code` | `IntelliJ` | `Unity` | `Jupyter Notebook` | `Colab` | `Eclipse` | `MetaSpark Studio`  
+
+### ☁ Cloud & Databases  
+`Firebase Firestore` | `MongoDB` | `Salesforce CRM`  
 
 ---
 
-### 🤝 Join My Party
-* [cite_start]**Summon Me:** `sharmaparag2004@gmail.com` [cite: 1]
-* **Alliance:** [LinkedIn](https://linkedin.com)
-* **Secret Base:** [Portfolio](https://yourportfolio.com)
+## 📊 GitHub Trophies  
 
-*"Throughout Heaven and Earth, I alone am the honored one (at debugging)."*
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=P09s&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+## 🌐 Social Presence  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/parag-sharma-8084a8250/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/@paragsharma6159?si=UXp_PbfaNw9x-2Qb"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://developers.google.com/profile/u/parag_09"><img src="https://img.shields.io/badge/Google%20Developer-4285F4.svg?style=for-the-badge&logo=google&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
