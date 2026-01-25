@@ -1,4 +1,3 @@
-<!-- Banner / Intro -->
 <h1 align="center">Hi 👋, I'm Parag Sharma</h1>
 <h3 align="center">🚀 Software Developer | App & Web Enthusiast | AR/VR Explorer</h3>
 
@@ -27,6 +26,14 @@
 - 👐 **SilentVoice** – *Winner at Ideathon Taiwan 2025* | Real-time **sign language → speech** converter.  
 - 👁 **Orbcura** – *Nominated for FY2024 INNO-vation Award* | Mobile app for **visually impaired accessibility**.  
 - 🌊 **Aqua Watch** – Real-time **flood management app** with community-driven alerts.  
+
+---
+
+## 🤝 Open-Source Contributions
+
+- 🐍 **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)** *(217k+ stars)*: Implemented an $O(n)$ Sliding Window Maximum using Monotonic Deque; [cite_start]PR approved and merged. [cite: 43]
+- [cite_start]🍽️ **[Zomato/espresso](https://github.com/Zomato/espresso)**: Authored production-grade documentation for ZeroLogger integration and observability best practices. [cite: 44]
+- [cite_start]🤖 **[Agentscope/Trinity-RFT](https://github.com/modelscope/agentscope)**: Improved onboarding by adding a CPU-only quick-start guide and clarifying hardware requirements. [cite: 45]
 
 ---
 
