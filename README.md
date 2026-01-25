@@ -31,9 +31,9 @@
 
 ## 🤝 Open-Source Contributions
 
-- 🐍 **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)** *(217k+ stars)*: Implemented an $O(n)$ Sliding Window Maximum using Monotonic Deque; [cite_start]PR approved and merged. [cite: 43]
-- [cite_start]🍽️ **[Zomato/espresso](https://github.com/Zomato/espresso)**: Authored production-grade documentation for ZeroLogger integration and observability best practices. [cite: 44]
-- [cite_start]🤖 **[Agentscope/Trinity-RFT](https://github.com/modelscope/agentscope)**: Improved onboarding by adding a CPU-only quick-start guide and clarifying hardware requirements. [cite: 45]
+- 🐍 **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)** *(217k+ stars)*: Implemented an $O(n)$ Sliding Window Maximum using Monotonic Deque; PR approved and merged.
+- 🍽️ **[Zomato/espresso](https://github.com/Zomato/espresso)**: Authored production-grade documentation for ZeroLogger integration and observability best practices.
+- 🤖 **[Agentscope/Trinity-RFT](https://github.com/modelscope/agentscope)**: Improved onboarding by adding a CPU-only quick-start guide and clarifying hardware requirements.
 
 ---
 
