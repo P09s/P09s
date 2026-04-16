@@ -48,12 +48,12 @@ parag = {
 
 ---
 
-### 🔍 [Document Q&A — RAG Pipeline](https://github.com/P09s) — *In Progress*
-> LangChain · FAISS · HuggingFace Sentence-Transformers · Streamlit
+### 🔍 [RepoSage — AI Codebase Intelligence](https://github.com/P09s/RepoSage) — *Latest Release*
+> Python · LangChain (LCEL) · ChromaDB · HuggingFace · Groq API (Llama 3.1)
 
-- End-to-end RAG pipeline for querying custom PDF documents using open-source LLMs
-- Semantic chunking + FAISS vector indexing for sub-second retrieval across 50+ page docs
-- Deployed via Streamlit with prompt engineering for reduced hallucination
+- End-to-end RAG pipeline that ingests public and private GitHub repositories, allowing developers to query codebase architecture using natural language.
+- Code-aware ingestion engine using LangChain and HuggingFace, storing structured chunk vectors in a local ChromaDB index for fast retrieval.
+- Integrated Llama 3.1 via Groq to stream instant, context-aware technical answers with precise source file attribution.
 
 ---
 
