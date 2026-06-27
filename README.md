@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Parag Sharma 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer (Fresher) · Computer Vision · RAG · LLMs · HuggingFace</b><br/>
-  🏆 Taiwan Hackathon Winner · 📜 Published Patent · ⭐ Open Source Contributor · Ex-GDGC President
+  <b>Solo Founder & Full-Stack AI Product Builder · Computer Vision · RAG · LLMs</b><br/>
+  🏆 Taiwan Hackathon Winner · 🚀 2 Live AI Products Shipped Solo · 📜 Published Patent · Ex-GDGC President
 </p>
 
 <p align="center">
@@ -18,55 +18,77 @@
 
 ```python
 parag = {
-    "focus"       : ["Computer Vision", "RAG Pipelines", "LLM Applications"],
-    "stack"       : ["Python", "OpenCV", "MediaPipe", "LangChain", "HuggingFace"],
-    "currently"   : "Building RAG systems with FAISS + LangChain + open-source LLMs",
-    "highlight"   : "Won Taiwan Ministry of Digital Affairs hackathon 🏆",
-    "patent"      : "Co-author · Offline Accessibility Data Workflow (Orbcura)",
-    "looking_for" : "Junior ML Engineer · AI Developer · GenAI Engineer roles",
+    "role"        : "Solo Founder · Full-Stack AI Product Builder",
+    "shipped"     : [
+        "MilaKya — bilingual multi-home item tracker (Google Play Beta)",
+        "Daivam AI — Vedic astrology AI platform (Live in Production)",
+    ],
+    "stack"       : ["Next.js", "TypeScript", "Supabase", "Groq AI", "LangChain"],
+    "highlight"   : "Won Taiwan Ministry of Digital Affairs hackathon 🏆 ($40,000 NT)",
+    "patent"      : "Co-author · USSD-based offline UPI payment layer for feature phones",
+    "open_to"     : "Founder collaborations · AI/Product Engineering roles",
 }
 ```
 
-- 🎓 Final-year **B.Tech CSE** @ Maharishi Markandeshwar (Deemed) University · CGPA: 8.03
+- 🎓 **B.Tech CSE** @ Maharishi Markandeshwar (Deemed) University · CGPA: 8.05 (May 2026)
+- 🚀 Built and shipped **two live AI products solo** — strategy, design, engineering, and go-to-market end-to-end
 - 🏆 **Good Idea Award Winner** — Ministry of Digital Affairs, Taiwan (Nov 2024) · $40,000 NT prize
 - 🥇 **Top 5 National** — Hack4Change by Google & Charcha · 3000+ teams
-- 📜 **Published Patent** — Offline UPI accessibility workflow (Orbcura)
-- 👨‍💼 **Ex-President** — Google Developer Groups on Campus MM(DU)
+- 📜 **Co-authored Patent** — Offline UPI accessibility workflow (USSD, feature phones)
+- 👨‍💼 **Community Lead** — Organised 2 national hackathons (400+ participants) as GDG on Campus lead
 - 🤖 Trained **150+ students** in GenAI using Google Cloud Vertex AI & Gemini APIs
-- 🔓 **Open to:** Junior ML Engineer · AI Developer · GenAI Engineer roles
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Live Products
+
+### 🏠 [MilaKya](https://milakya.vercel.app) — *Beta on Google Play*
+> Bilingual item tracker for India's multi-home generation · Next.js · TypeScript · Supabase · Groq AI · Android
+
+- Solved a real gap: people juggling belongings across PG, parents', in-laws', and storage have no easy way to track what's where
+- **AI photo & diary scanning** — photograph a shelf or handwritten list; the app reads, names, and organises items by room automatically
+- Owned everything solo: branding, the tagline *"Apna Saman, Apni Jagah"*, the Instagram go-to-market campaign, and subscription/usage-based monetization infrastructure — ready to monetize from day one
+
+### 🔮 [Daivam AI](https://daivam.vercel.app) — *Live in Production*
+> AI-powered Vedic astrology platform · Next.js · Supabase · Groq AI · LangChain
+
+- Conversational AI delivers personalised birth chart readings and partner compatibility analysis
+- Built with SEO and vernacular keyword targeting for Indian search traffic
+- Designed, built, and deployed solo — concept to production
+
+---
+
+## 🧪 Other Projects
 
 ### 👐 [Silent Voice](https://github.com/P09s/silent-voice-eye) — *🏆 Taiwan Hackathon Winner*
 > Real-time ASL-to-speech system · OpenCV · MediaPipe · Edge Inference · Python
 
-- Edge-optimized CV pipeline using **MediaPipe Hand Landmarker** (21-point geometry) at **30+ FPS on CPU**
-- Fully offline, zero cloud dependency — privacy-preserving by design
+- Edge-optimized CV pipeline using **MediaPipe Hand Landmarker** (21-point geometry) at **30+ FPS on CPU**, fully offline
 - Won **Good Idea Award** at Taiwan's Ministry of Digital Affairs international hackathon
 
----
+### 🔍 [RepoSage — AI Codebase Intelligence](https://github.com/P09s/RepoSage)
+> Python · LangChain (LCEL) · ChromaDB · HuggingFace · Groq API · Streamlit
 
-### 🔍 [RepoSage — AI Codebase Intelligence](https://github.com/P09s/RepoSage) — *Latest Release*
-> Python · LangChain (LCEL) · ChromaDB · HuggingFace · Groq API (Llama 3.1)
-
-- End-to-end RAG pipeline that ingests public and private GitHub repositories, allowing developers to query codebase architecture using natural language.
-- Code-aware ingestion engine using LangChain and HuggingFace, storing structured chunk vectors in a local ChromaDB index for fast retrieval.
-- Integrated Llama 3.1 via Groq to stream instant, context-aware technical answers with precise source file attribution.
-
----
+- RAG pipeline that ingests public and private GitHub repos, letting engineers query codebase architecture in plain English
+- Deployed publicly with private-repo support; streams context-aware answers with precise source-file attribution
 
 ### 👁 [Orbcura](https://github.com/P09s/Orbcura-App) — *📜 Published Patent · Award Nominee*
 > OpenCV · MediaPipe Pose Landmarker · Flutter · USSD · Python
 
 - Assistive app for visually impaired users with real-time environment recognition
 - Engineered offline USSD-based UPI payment layer — bypasses internet constraints entirely
-- **Co-authored published patent** for the offline accessibility data workflow
 
 ---
 
 ## 🛠️ Tech Stack
+
+### 🧱 Product / Fullstack
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ### 🤖 AI / ML / GenAI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -110,6 +132,7 @@ parag = {
 | 🥇 Top 5 National — Hack4Change | Google & Charcha · 3000+ teams | 2024 |
 | 🥈 National Innovation Award Runner-Up | P.I.E.T | 2024 |
 | 🥉 2nd Runner-Up — Ideathon 2025 | Ambala College of Engineering | 2025 |
+| 📜 Co-authored Patent | Offline USSD-based UPI payment layer | 2025 |
 
 ---
 
@@ -143,5 +166,5 @@ parag = {
 
 <p align="center">
   <i>"Build AI that works in the real world — not just in notebooks."</i><br/><br/>
-  <b>Open to Junior ML Engineer · AI Developer · GenAI Engineer roles · India (Remote/Hybrid/On-site)</b>
+  <b>Open to: Founder collaborations · AI/Product Engineering roles · India (Remote/Hybrid/On-site)</b>
 </p>
