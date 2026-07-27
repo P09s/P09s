@@ -19,10 +19,6 @@
 ```python
 parag = {
     "role"        : "Solo Founder · Full-Stack AI Product Builder",
-    "shipped"     : [
-        "MilaKya — bilingual multi-home item tracker (Google Play Beta)",
-        "Daivam AI — Vedic astrology AI platform (Live in Production)",
-    ],
     "stack"       : ["Next.js", "TypeScript", "Supabase", "Groq AI", "LangChain"],
     "highlight"   : "Won Taiwan Ministry of Digital Affairs hackathon 🏆 ($40,000 NT)",
     "patent"      : "Co-author · USSD-based offline UPI payment layer for feature phones",
@@ -39,7 +35,7 @@ parag = {
 - 🤖 Trained **150+ students** in GenAI using Google Cloud Vertex AI & Gemini APIs
 
 ---
-
+<!--
 ## 🚀 Live Products
 
 ### 🏠 [MilaKya](https://milakya.vercel.app) — *Beta on Google Play*
@@ -57,7 +53,7 @@ parag = {
 - Designed, built, and deployed solo — concept to production
 
 ---
-
+-->
 ## 🧪 Other Projects
 
 ### 👐 [Silent Voice](https://github.com/P09s/silent-voice-eye) — *🏆 Taiwan Hackathon Winner*
