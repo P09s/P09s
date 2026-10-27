@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,20&height=240&section=header&text=PARAG%20SHARMA&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E3%83%91%E3%83%A9%E3%82%B0%20%2F%2F%20AI%20Engineer%20%C2%B7%20RAG%20%C2%B7%20Vision%20%C2%B7%20Solo%20Founder&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=200&section=header&text=PARAG%20SHARMA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E3%83%91%E3%83%A9%E3%82%B0%20%2F%2F%20AI%20Engineer%20%C2%B7%20RAG%20%C2%B7%20Vision%20%C2%B7%20Solo%20Founder&descSize=18&descAlignY=60" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=FF2E97&center=true&vCenter=true&width=700&lines=%3E+booting+parag.exe...;%3E+AI+%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2+%40+Addval+Solutions;%3E+building+RAG+that+actually+ships;%3E+side+quest%3A+indie+AI+products;%3E+status%3A+online+%E2%97%89" alt="typing" />
-
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=FF2E97&center=true&vCenter=true&width=700&height=40&lines=%3E+booting+parag.exe...;%3E+AI+%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2+%40+Addval+Solutions;%3E+building+RAG+that+actually+ships;%3E+side+quest%3A+indie+AI+products;%3E+status%3A+online+%E2%97%89" alt="typing" />
 
 <a href="https://paragsh.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-ff2e97?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/p09s/"><img src="https://img.shields.io/badge/LINKEDIN-7b2ff7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -21,7 +19,8 @@
 
 <h2 align="center">⟦ STATUS WINDOW ⟧</h2>
 
-```
+<table align="center"><tr><td>
+<pre>
 ╔══════════════════════════════════════════════╗
 ║  NAME    :  Parag Sharma                     ║
 ║  CLASS   :  AI Engineer                      ║
@@ -35,12 +34,13 @@
 ║  SHIPPING       ████████████████████         ║
 ║  SLEEP          ███░░░░░░░░░░░░░░░░░         ║
 ╠══════════════════════════════════════════════╣
-║  TITLES  🏆 Taiwan Hackathon Champion        ║
-║          📜 Patent Holder                    ║
-║          🧑‍💻 Open-Source Contributor          ║
-║          ⚔️  Ex-GDGC President               ║
+║  TITLES  >  Taiwan Hackathon Champion        ║
+║          >  Patent Holder                    ║
+║          >  Open-Source Contributor          ║
+║          >  Ex-GDGC President                ║
 ╚══════════════════════════════════════════════╝
-```
+</pre>
+</td></tr></table>
 
 ---
 
@@ -55,8 +55,6 @@
 | 🧠 | [**RepoSage**](https://github.com/P09s/RepoSage) | Interrogate any codebase with RAG | `CLEARED` |
 | 👐 | [**Silent Voice**](https://github.com/P09s/silent-voice-eye) | Sign language to speech, 30+ FPS on CPU | `🏆 WON` |
 | 👁️ | [**Orbcura**](https://github.com/P09s/Orbcura-App) | Vision for the visually impaired + offline UPI | `📜 PATENT` |
-| 🧾 | **Tax Research Engine** | Citation-grounded search over Indian tax law | `IN PROGRESS` |
-| 📡 | **GEO Platform** | Tracking brands inside AI search answers | `IN PROGRESS` |
 
 </div>
 
@@ -65,7 +63,7 @@
 <h2 align="center">⟦ EQUIPPED ⟧</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,langchain,opencv,nextjs,ts,react,tailwind,supabase,vercel,git,gcp&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,nextjs,ts,react,tailwind,supabase,vercel,git,gcp&perline=11&theme=dark" />
 </p>
 
 ---
