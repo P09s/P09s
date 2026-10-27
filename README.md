@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=FF2E97&center=true&vCenter=true&width=700&height=40&lines=%3E+booting+parag.exe...;%3E+AI+%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2+%40+Addval+Solutions;%3E+building+RAG+that+actually+ships;%3E+side+quest%3A+indie+AI+products;%3E+status%3A+online+%E2%97%89" alt="typing" />
 
-<a href="https://paragsh.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-ff2e97?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://parag-sharma.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-ff2e97?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/p09s/"><img src="https://img.shields.io/badge/LINKEDIN-7b2ff7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sharmaparag2004@gmail.com"><img src="https://img.shields.io/badge/CONTACT-00c8ff?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -63,7 +63,7 @@
 <h2 align="center">⟦ EQUIPPED ⟧</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,nextjs,ts,react,tailwind,supabase,vercel,git,gcp&perline=11&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ruby,rails,pytorch,opencv,nextjs,ts,react,tailwind,supabase,vercel,git,gcp&perline=11&theme=dark" />
 </p>
 
 ---
